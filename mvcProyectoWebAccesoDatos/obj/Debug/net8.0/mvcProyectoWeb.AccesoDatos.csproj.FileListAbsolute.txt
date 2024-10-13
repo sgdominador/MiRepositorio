@@ -1,0 +1,17 @@
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.AccesoDatos.deps.json
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.AccesoDatos.dll
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.AccesoDatos.pdb
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.Models.dll
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.Models.pdb
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.csproj.AssemblyReference.cache
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.AssemblyInfoInputs.cache
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.AssemblyInfo.cs
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.csproj.CoreCompileInputs.cache
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProye.E177E565.Up2Date
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.dll
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\refint\mvcProyectoWeb.AccesoDatos.dll
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.pdb
+F:\universidad 1\ProgramacionWeb2\NetCore\Copia\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\ref\mvcProyectoWeb.AccesoDatos.dll
